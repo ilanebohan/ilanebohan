@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ilanebohan
-- 👀 I’m interested in IT, New tech, Science, Astronomy and Politics
-- 💞️ I’m looking to collaborate on anything to be honest. Feel free to contact me and we can discuss about your project
-- 📫 How to reach me : Discord : Rize#1000 
-                        Email : ilane.bohan@gmail.com
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ilanebohan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
                         
 <!---
 ilanebohan/ilanebohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
