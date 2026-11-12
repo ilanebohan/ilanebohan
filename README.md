@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ilane%20BOHAN&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%40%20Sopra%20Steria&descAlignY=58&descSize=20&animation=fadeIn" alt="Ilane BOHAN, Software Engineer @ Sopra Steria" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ilane%20BOHAN&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" alt="Ilane BOHAN, Software Engineer" width="100%" />
 
 <a href="https://ilanebohan.fr/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=4FC3F7&center=true&vCenter=true&width=600&lines=Java+%C2%B7+Spring+Boot+%C2%B7+Angular;Du+code+propre%2C+test%C3%A9%2C+maintenable;Game+dev+Unity+%C3%A0+mes+heures+perdues" alt="Java · Spring Boot · Angular, du code propre, game dev Unity" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=4FC3F7&center=true&vCenter=true&width=600&lines=Full-stack+developer;Java+%C2%B7+Spring+Boot+%C2%B7+Angular;Clean%2C+tested%2C+maintainable+code;Game+dev+with+Unity+on+the+side" alt="Full-stack developer. Java, Spring Boot, Angular. Clean, tested, maintainable code. Game dev with Unity on the side." />
 </a>
 
 <br/>
 
-<a href="https://ilanebohan.fr/"><img src="https://img.shields.io/badge/ilanebohan.fr-203a43?style=flat-square&logo=googlechrome&logoColor=white" alt="Site web" /></a>
-<img src="https://komarev.com/ghpvc/?username=ilanebohan&label=Vues+du+profil&color=2c5364&style=flat-square" alt="Vues du profil" />
+<a href="https://ilanebohan.fr/"><img src="https://img.shields.io/badge/ilanebohan.fr-203a43?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<img src="https://komarev.com/ghpvc/?username=ilanebohan&label=Profile+views&color=2c5364&style=flat-square" alt="Profile views" />
 <a href="https://github.com/ilanebohan?tab=followers"><img src="https://img.shields.io/github/followers/ilanebohan?label=Followers&style=flat-square&color=2c5364" alt="Followers" /></a>
 
 </div>
 
-## 👋 À propos
+## 👋 About me
 
-Moi c'est **Ilane**, développeur full-stack en France. J'aime le code lisible, les tests qui servent à quelque chose et les projets qu'on termine.
+I'm **Ilane**, a full-stack software engineer based in France. I care about readable code, tests that actually catch things, and shipping what I start.
 
-- 💼 Software Engineer chez **Sopra Steria**, surtout sur du Java / Spring et de l'Angular
-- 🎮 Game dev sur mon temps libre : j'ai sorti [Coffee Clicker](https://riizze84.itch.io/coffee-clicker) sous Unity
-- 🏰 Je bricole sur [OpenKeeper](https://github.com/ilanebohan/OpenKeeper), le remake open source de Dungeon Keeper II
-- 💬 Parle-moi de back-end Java, d'architecture front ou de clean code
+- 💼 I build and maintain web applications end to end, from the API and the database to the UI
+- 🎮 I make games in my spare time, from the first prototype to a playable release
+- 🌍 I contribute to open source projects when I find something I can fix or improve
+- 💬 Ask me about back-end Java, front-end architecture or clean code
 
-## 🛠️ Stack
+## 🛠️ Tech stack
 
 <div align="center">
 
@@ -35,36 +35,35 @@ Moi c'est **Ilane**, développeur full-stack en France. J'aime le code lisible, 
 
 <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" alt="Angular, TypeScript, JavaScript, HTML, CSS" />
 
-**Game dev & outils**
+**Game dev & tools**
 
 <img src="https://skillicons.dev/icons?i=unity,cs,git,gitlab,idea,vscode&theme=dark" alt="Unity, C#, Git, GitLab, IntelliJ IDEA, VS Code" />
 
 </div>
 
-## 📌 Projets
+## 📌 Featured work
 
-| Projet | Description | Stack |
+| Project | What it is | Stack |
 | :-- | :-- | :-- |
-| [**coffee-clicker**](https://github.com/ilanebohan/coffee-clicker) | Jeu idle / clicker minimaliste, avec progression, améliorations et sauvegarde. [Jouable sur itch.io](https://riizze84.itch.io/coffee-clicker). | `Unity` `C#` |
-| [**OpenKeeper**](https://github.com/ilanebohan/OpenKeeper) | Mon fork du remake open source de Dungeon Keeper II. | `Java` |
-| [**PPE_GSB_TarteAuCitron**](https://github.com/ilanebohan/PPE_GSB_TarteAuCitron) | PGI pour un laboratoire pharmaceutique fictif : connexion et administration des utilisateurs. | `C#` `WinForms` |
-| [**RaspPython**](https://github.com/ilanebohan/RaspPython) | Interface de connexion sur Raspberry Pi, par badge RFID et caméra. | `Python` |
-| [**JavaSpring_TP_ENI**](https://github.com/ilanebohan/JavaSpring_TP_ENI) | API Spring Boot, avec ses fronts [Angular](https://github.com/ilanebohan/Frontend_Angular_Spring_TP_ENI) et [Flutter](https://github.com/ilanebohan/Frontend_Flutter_Spring_TP_ENI). | `Java` `Spring Boot` |
+| [**Coffee Clicker**](https://github.com/ilanebohan/coffee-clicker) | A minimalist idle / clicker game with upgrades, progression and a persistent save. [Play it on itch.io](https://riizze84.itch.io/coffee-clicker). | `Unity` `C#` |
+| [**OpenKeeper**](https://github.com/tonihele/OpenKeeper/pull/1113) | Open source remake of Dungeon Keeper II. My contribution adds a missing level-script action to the engine. | `Java` |
+| [**OpenAI Discord Bot**](https://github.com/ilanebohan/OpenAI_Discord_Bot) | A Discord bot that chats and answers questions through the OpenAI API. | `Python` |
 
-## 📊 Activité
+## 📊 Activity
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=ilanebohan&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cprs_reviewed%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Statistiques GitHub" height="210" />
+<img src="https://github-stats-extended.vercel.app/api?username=ilanebohan&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cprs_reviewed%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="210" />
 
-<img src="https://streak-stats.demolab.com?user=ilanebohan&theme=tokyonight&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D" alt="Série de contributions" height="210" />
+<img src="https://streak-stats.demolab.com?user=ilanebohan&theme=tokyonight&hide_border=true" alt="Contribution streak" height="210" />
 
 </div>
 
-## 📫 Contact
+## 📫 Get in touch
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/ilane-bohan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://ilanebohan.fr/"><img src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://riizze84.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
 
