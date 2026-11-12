@@ -19,8 +19,8 @@
 I'm **Ilane**, a full-stack software engineer based in France. I care about readable code, tests that actually catch things, and shipping what I start.
 
 - 💼 I build and maintain web applications end to end, from the API and the database to the UI
-- 🎮 I make games in my spare time, from the first prototype to a playable release
-- 🌍 I contribute to open source projects when I find something I can fix or improve
+- 🧱 I pay attention to architecture, automated testing and code review, so the code stays easy to change
+- 🎮 Outside of work, I make games with Unity
 - 💬 Ask me about back-end Java, front-end architecture or clean code
 
 ## 🛠️ Tech stack
@@ -40,14 +40,6 @@ I'm **Ilane**, a full-stack software engineer based in France. I care about read
 <img src="https://skillicons.dev/icons?i=unity,cs,git,gitlab,idea,vscode&theme=dark" alt="Unity, C#, Git, GitLab, IntelliJ IDEA, VS Code" />
 
 </div>
-
-## 📌 Featured work
-
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| [**Coffee Clicker**](https://github.com/ilanebohan/coffee-clicker) | A minimalist idle / clicker game with upgrades, progression and a persistent save. [Play it on itch.io](https://riizze84.itch.io/coffee-clicker). | `Unity` `C#` |
-| [**OpenKeeper**](https://github.com/tonihele/OpenKeeper/pull/1113) | Open source remake of Dungeon Keeper II. My contribution adds a missing level-script action to the engine. | `Java` |
-| [**OpenAI Discord Bot**](https://github.com/ilanebohan/OpenAI_Discord_Bot) | A Discord bot that chats and answers questions through the OpenAI API. | `Python` |
 
 ## 📊 Activity
 
